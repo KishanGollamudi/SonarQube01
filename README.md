@@ -24,6 +24,7 @@ This README covers:
 ---
 
 ## 1. SonarQube Installation & Configuration
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/92d1e8b7-b9ea-41b6-9815-dadbf7713ea8" />
 
 ### Step 1: Install Java 17
 ```bash
@@ -186,6 +187,8 @@ mvn clean verify sonar:sonar \
   -Dsonar.host.url=http://<server-ip>:9000 \
   -Dsonar.login=<your-generated-token>
 ```
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/890e5806-566b-41ae-89f3-e721406bd13f" />
+
 
 ---
 
@@ -214,6 +217,8 @@ mvn clean verify sonar:sonar -Dsonar.projectKey=java-web-app -Dsonar.host.url=ht
 sudo systemctl status sonarqube
 sudo ss -tulnp | grep 9000
 ```
+<img width="1673" height="383" alt="4" src="https://github.com/user-attachments/assets/f93db0f9-6518-4a92-8755-e73e37202411" />
+
 
 ---
 
@@ -225,7 +230,7 @@ This setup allows seamless static code analysis using SonarQube with embedded H2
 
 ## Screenshots
 
-*Add your screenshots below or link them here for reference.*
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/bb729e43-1b01-429c-8ee6-6806b5c670b7" />
 
 
 Would you like me to help add screenshot placeholders or instructions on how to embed them?
