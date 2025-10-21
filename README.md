@@ -1,6 +1,3 @@
-Sure! Here’s a clean, professional, and complete **README.md** file tailored for your Java Web Calculator project with the SonarQube 24.12.0.100206 setup and your workflow included:
-
-````markdown
 # Java Web Calculator
 
 ## Overview
